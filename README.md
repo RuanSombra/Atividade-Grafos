@@ -11,12 +11,12 @@
 
 **Semestre:** 2025.1  
 
-Reconhecimentos e Direitos Autorais 
-@autor: [Ruan Pactrick de Sousa e Sousa] 
-@contato: [ruanpetrick18@gmail.com] 
+Reconhecimentos e Direitos Autorais
+@autor: [Ruan Pactrick de Sousa e Sousa]
+@contato: [ruanpetrick18@gmail.com]
 @data última versão: [12/06/2025] 
 @versão: 1.0 
-@outros repositórios: [https://github.com/RuanSombra?tab=repositories] 
+@outros repositórios: [https://github.com/RuanSombra?tab=repositories]
 @Agradecimentos: Universidade Federal do Maranhão (UFMA), Professor Doutor 
 Thales Levi Azevedo Valente, e colegas de curso. 
 
